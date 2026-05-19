@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="[sitemaps.org](http://www.sitemaps.org/schemas/sitemap/0.9)"
+        xmlns:xsi="[w3.org](http://www.w3.org/2001/XMLSchema-instance)"
+        xsi:schemaLocation="[sitemaps.org](http://www.sitemaps.org/schemas/sitemap/0.9)
+        [sitemaps.org](http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd)">
+
+  <!-- HOME PAGE -->
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- BLOG PAGE -->
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- BLOG ANCHORS (individual articles) -->
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#choosing-career-after-10th)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#ai-careers-india)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#neet-guidance)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#jee-preparation)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#career-confusion)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#psychology-careers)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#commerce-careers)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#study-abroad)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#aptitude-testing)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#engineering-careers)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#mba-guidance)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#skill-development)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#law-career)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#medical-beyond-mbbs)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#degree-options)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#career-counselling-importance)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#creative-careers)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#government-jobs-careers)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#digital-economy-careers)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#career-after-graduation)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#parents-career-guide)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>[your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/blogs.html#career-trends-2030)</loc>
+    <lastmod>2025-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

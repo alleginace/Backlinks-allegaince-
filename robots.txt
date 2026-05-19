@@ -1,0 +1,11 @@
+# Allegiance Educare — robots.txt
+# [your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/)
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: [your-github-username.github.io](https://YOUR-GITHUB-USERNAME.github.io/allegiance-educare-site/sitemap.xml)
+
+# Crawl-delay recommendation (optional, respected by some bots)
+Crawl-delay: 1
